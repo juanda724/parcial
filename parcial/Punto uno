@@ -1,0 +1,11 @@
+1.B 
+R/ la salida es 22
+- primero se usa el Enum.reduce para reducir la lista
+- el acumulador inicia en 2
+- x que es el elemento de la lista, se suma con el valor acumulado hasta el último elemento.
+
+
+1.D
+R/ D) error de sintaxis (debido a que para que se muestre la lista con el resultado de la operación, se debe usar IO.inspect para que
+retorne la lista con sus cambios)
+
