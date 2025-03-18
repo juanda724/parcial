@@ -1,1 +1,1 @@
-# parcial
+# parcial - Juan David Castañeda Valenzuela
